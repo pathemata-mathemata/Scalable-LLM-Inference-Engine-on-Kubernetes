@@ -1,6 +1,6 @@
 # Scalable LLM Inference Engine on Kubernetes
 
-Containerized, Kubernetes-based serving for a quantized LLM with an OpenAI-compatible REST API.
+Containerized, Kubernetes-based serving for a quantized LLM
 
 ## Overview
 This project demonstrates serving Meta-Llama-3-8B (quantized GGUF) using:
